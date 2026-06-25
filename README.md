@@ -24,7 +24,7 @@ XGBoost R² Score: 0.98
 
 pip install -r requirements.txt
 
-streamlit run app11.py
+streamlit run app.py
 
 ## Author
 Harshada Sasar
